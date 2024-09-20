@@ -1,0 +1,12 @@
+pip install --upgrade pip
+
+Discord botu oluşturabilmemiz için öncelikle python kütüphanelerinden "discord" kütüphanesini indirmemiz gerekiyor.
+
+pip install discord
+
+Daha sonrasında python kütüphanelerinden "dotenv" kütüphanesini indirmemiz gerekiyor. Çünkü botumuza ait olan özel-
+
+keyleri saklayabilecek bir ortama ihtiyacımız var.
+
+pip install python-dotenv
+
